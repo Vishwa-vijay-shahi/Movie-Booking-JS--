@@ -4,8 +4,17 @@
     box-sizing: border-box;
 }
 
-
-
+nav{
+    display: flex;
+    background-color: purple;
+    color: white;
+    padding: 12px 16px;
+    justify-content: space-between;
+}
+nav ul{
+    display: flex;
+    justify-content: space-around;
+}
 
 
 
